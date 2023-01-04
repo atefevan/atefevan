@@ -14,7 +14,7 @@
 
 I'm Atef Shahrier Evan and Curious Everytime at [Android Development](https://developer.android.com/). I previously worked in Junior App developer at PositiveIt World 
 
-In my personal capacity, do a lot of [writting and learning](https://developer.android.com/courses) about android Android Development and Learn about new [Technologies](https://www.youtube.com/c/AndroidDevelopers/playlists) regularly ,love to learn about [Google Dorking](https://www.exploit-db.com/google-hacking-database) cause has a great interest in google dorking , Also I'm a good listener !! 
+In my personal capacity, do a lot of [writting and learning](https://developer.android.com/courses) about Android Development and Learn about new [Technologies](https://www.youtube.com/c/AndroidDevelopers/playlists) regularly ,love to learn about [Google Dorking](https://www.exploit-db.com/google-hacking-database) cause has a great interest in google dorking , Also I'm a good listener !! 
 
 I also self-published <a href="https://play.google.com/store/apps/details?id=net.startbit.diucgpa">The CGPA Viewer for daffodilians</a> to condense all the tacit result need to know as a student of Daffodil University. <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail me</a> For any issues !!
 
