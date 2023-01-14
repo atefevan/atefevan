@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://sites.google.com/view/retr02/home">Google Site</a> •
-  <a href="https://www.facebook.com/profile.php?id=100028291062142">FaCeBoOk</a> •
+  <a href="https://www.facebook.com/profile.php?id=100028291062142">Facebook</a> •
   <a href="https://stackoverflow.com/users/17752861/atef-shahrier-evan">StackOverFLow</a> •
 </p>
 
