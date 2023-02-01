@@ -34,3 +34,4 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
 - ⚡ Fun fact: I Finish what i start !!
 
 ![Visitor Count](https://profile-counter.glitch.me/atefevan/count.svg)
+<div align="center"> <strong><h3>Visitor Count</h3></strong> </div>
