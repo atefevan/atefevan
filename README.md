@@ -22,16 +22,17 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
   <img align="right" src="[![image](https://user-images.githubusercontent.com/91305837/179371817-c58872a0-e523-45c3-bf2d-536a687dd192.png)]" width=200 />
 </a> -->
 
-<a href="https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png">
+<!-- <a href="https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png">
   <img align="right" src="https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png" width=200 />
-</a>
+</a> -->
 
 - See my [full about page here](https://sites.google.com/view/retr02/home) , it's really good to see you here buddy :D .
 - 👯 I am on the [Cross Platform Learning](https://flutter.dev/) And also [Native Platform Learning](https://developer.android.com/).
 - 💬 Ask me about P R O G R A M I N G or Let's W O R K together !!
-- 📫 How to reach me: [P I N G   M E](https://www.facebook.com/profile.php?id=100028291062142)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I Finish what i start !!
+- 📫 How to reach me: [P I N G   M E](https://www.facebook.com/profile.php?id=100028291062142) 
+  <p align="right" style="font-size:50px; color:blue;">Visitor Count &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</p> 
+<!--   <p>Visitor Count</p> -->
+<p align="right"><img src="https://profile-counter.glitch.me/atefevan/count.svg"></p>
+<!-- - 😄 Pronouns: he/him -->
+<!-- - ⚡ Fun fact: I Finish what i start !! -->
 
-![Visitor Count](https://profile-counter.glitch.me/atefevan/count.svg)
-<div align="center"> <strong><h3>Visitor Count</h3></strong> </div>
