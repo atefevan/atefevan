@@ -32,3 +32,5 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
 - 📫 How to reach me: [P I N G   M E](https://www.facebook.com/profile.php?id=100028291062142)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Finish what i start !!
+
+![Visitor Count](https://profile-counter.glitch.me/atefevan/count.svg)
