@@ -12,7 +12,7 @@
 
 ---
 
-I'm Atef Shahrier Evan and Curious Everytime at [Android Development](https://developer.android.com/). Currently Working as a Junior Software Dev in MaxEcho.
+I'm Atef Shahrier Evan and Curious Everytime at [Android Development](https://developer.android.com/). Currently Working as a Junior Software Dev at MaxEcho a Software Farm at Baridhara DOHS,Dhaka.
 
 In my personal capacity, do a lot of [writting and learning](https://developer.android.com/courses) about Android Development and Learn about new [Technologies](https://www.youtube.com/c/AndroidDevelopers/playlists) regularly ,love to learn about [Google Dorking](https://www.exploit-db.com/google-hacking-database) cause has a great interest in google dorking , Also I'm a good listener !! 
 
